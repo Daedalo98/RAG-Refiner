@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Streamlit
+.streamlit/
+
+# Project Data (Don't upload PDFs or processed data)
+data/input/*
+data/processed/*
+!data/input/.gitkeep
+!data/processed/.gitkeep
+
+# VS Code
+.vscode/
+!tasks.json
+
+# Mac/Linux System files
+.DS_Store

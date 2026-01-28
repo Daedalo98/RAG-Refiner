@@ -1,0 +1,8 @@
+docling
+ollama
+pdf2doi
+pyyaml
+tqdm
+streamlit
+streamlit-pdf-viewer
+
