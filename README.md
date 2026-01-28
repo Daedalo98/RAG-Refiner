@@ -13,7 +13,7 @@ A "Human-in-the-loop" pipeline to convert raw PDFs into high-quality, metadata-e
 1.  **Prerequisites:** Ubuntu (WSL2), Python 3.10+, Ollama.
 2.  **Setup:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/RAG-Refiner.git](https://github.com/YOUR_USERNAME/RAG-Refiner.git)
+    git clone [https://github.com/Daedalo98/RAG-Refiner.git](https://github.com/Daedalo98/RAG-Refiner.git)
     cd RAG-Refiner
     chmod +x setup.sh
     ./setup.sh
